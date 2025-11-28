@@ -1,0 +1,56 @@
+Country,Year,GDP_Growth
+United States,2019,2.3
+United States,2020,-3.0
+United States,2021,5.7
+United States,2022,2.0
+United States,2023,2.1
+China,2019,6.0
+China,2020,2.3
+China,2021,8.1
+China,2022,3.0
+China,2023,5.0
+Japan,2019,0.7
+Japan,2020,-4.5
+Japan,2021,2.1
+Japan,2022,1.0
+Japan,2023,1.2
+Germany,2019,0.6
+Germany,2020,-4.6
+Germany,2021,2.7
+Germany,2022,1.8
+Germany,2023,0.5
+India,2019,4.0
+India,2020,-6.0
+India,2021,8.5
+India,2022,7.0
+India,2023,6.5
+United Kingdom,2019,1.5
+United Kingdom,2020,-9.5
+United Kingdom,2021,7.5
+United Kingdom,2022,4.0
+United Kingdom,2023,0.3
+France,2019,1.8
+France,2020,-7.9
+France,2021,6.8
+France,2022,2.5
+France,2023,0.7
+Italy,2019,0.3
+Italy,2020,-8.9
+Italy,2021,7.0
+Italy,2022,3.7
+Italy,2023,0.9
+Canada,2019,1.9
+Canada,2020,-5.2
+Canada,2021,4.5
+Canada,2022,3.4
+Canada,2023,1.0
+South Korea,2019,2.0
+South Korea,2020,-0.9
+South Korea,2021,4.2
+South Korea,2022,2.6
+South Korea,2023,1.4
+Taiwan,2019,3.0
+Taiwan,2020,3.1
+Taiwan,2021,6.5
+Taiwan,2022,2.5
+Taiwan,2023,1.3
